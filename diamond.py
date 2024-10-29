@@ -1,4 +1,4 @@
-# prompting user to enter a number x
+# asking user to enter a number x
 
 x = int(input("Enter a number: "))
 
